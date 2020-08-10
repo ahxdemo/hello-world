@@ -1,3 +1,3 @@
 FROM alpine: 3.8
 
-CMD ["echo, Hi It's Amad Here!"]
+CMD while true,do echo "Hi It's Amad Here!"; sleep 5; done
